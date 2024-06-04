@@ -7,7 +7,7 @@
 
 - [Stock Photography](#-stock-photography)
 - [Time Management](#-time-management)
-- [FileSharing](#-filesharing)
+- [FileSharing](#-file-sharing)
 - [Service Desk](#-service-desk)
 - [Chat Support](#-chat-support)
 - [Monitoring](#-monitoring)
